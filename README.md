@@ -19,7 +19,7 @@ cd masquerade-detector
 Usage
 1.	Run the script by executing the following command:
 bashCopy code
-python masquerade_detector.py 
+python list_masqueraded_files.py 
 2.	Enter the path to the folder you want to scan when prompted.
 3.	Observe the script's output, which will display the paths of masqueraded files found.
 Example
